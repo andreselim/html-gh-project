@@ -18,7 +18,7 @@ env:
   IBM_CLOUD_API_KEY: ${{ secrets.IBM_CLOUD_API_KEY }}
   IBM_CLOUD_REGION: eu-de
   ICR_NAMESPACE: ${{ secrets.ICR_NAMESPACE }}
-  REGISTRY_HOSTNAME: us.icr.io
+  REGISTRY_HOSTNAME: de.icr.io
   IMAGE_NAME: p-tech
   IKS_CLUSTER: p-tech
   DEPLOYMENT_NAME: p-tech
